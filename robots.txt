@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rasurcen.github.io/sitemap
+Sitemap: https://rasurcen.github.io/app/sitemap
+Sitemap: https://rasurcen.github.io/assets/sitemap
+Sitemap: https://rasurcen.github.io/css/sitemap
+Sitemap: https://rasurcen.github.io/includes/sitemap
+Sitemap: https://rasurcen.github.io/item/sitemap
+Sitemap: https://rasurcen.github.io/src/sitemap
